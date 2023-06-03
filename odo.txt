@@ -1,0 +1,11 @@
+resolver contains() (utils.py)   #verificar se id pertence ]begin,end[ check
+
+get /put local
+
+sockets udp
+    .sendto()           .dumps()
+    .receivfrom()       .loads()
+
+put/get sequencias
+preencher finger table
+put/get finger table
